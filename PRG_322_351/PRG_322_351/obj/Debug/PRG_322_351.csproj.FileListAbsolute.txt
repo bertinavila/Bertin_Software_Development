@@ -1,0 +1,12 @@
+C:\xampp\htdocs\PRG_322_351\PRG_322_351\bin\Debug\PRG_322_351.exe.config
+C:\xampp\htdocs\PRG_322_351\PRG_322_351\obj\Debug\PRG_322_351.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\PRG_322_351\PRG_322_351\bin\Debug\PRG_322_351.exe
+C:\xampp\htdocs\PRG_322_351\PRG_322_351\bin\Debug\PRG_322_351.pdb
+C:\xampp\htdocs\PRG_322_351\PRG_322_351\bin\Debug\EntityFramework.dll
+C:\xampp\htdocs\PRG_322_351\PRG_322_351\bin\Debug\EntityFramework.SqlServer.dll
+C:\xampp\htdocs\PRG_322_351\PRG_322_351\bin\Debug\MySql.Data.dll
+C:\xampp\htdocs\PRG_322_351\PRG_322_351\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\xampp\htdocs\PRG_322_351\PRG_322_351\bin\Debug\EntityFramework.xml
+C:\xampp\htdocs\PRG_322_351\PRG_322_351\bin\Debug\EntityFramework.SqlServer.xml
+C:\xampp\htdocs\PRG_322_351\PRG_322_351\obj\Debug\PRG_322_351.exe
+C:\xampp\htdocs\PRG_322_351\PRG_322_351\obj\Debug\PRG_322_351.pdb
