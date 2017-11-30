@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{57A07DD6-D02E-4C42-B8F8-9B5C9EADBFEB}|">
+  <MonoDevelop.Ide.ItemProperties.Week1 PreferredExecutionTarget="ChromeHTML" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week1\Default.aspx">
+    <Files>
+      <File FileName="Week1\Default.aspx" Line="17" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

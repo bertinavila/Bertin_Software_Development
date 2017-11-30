@@ -1,0 +1,9 @@
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PleaseWork\PleaseWork\bin\PleaseWork.dll.config
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PleaseWork\PleaseWork\bin\PleaseWork.dll
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PleaseWork\PleaseWork\bin\PleaseWork.pdb
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PleaseWork\PleaseWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PleaseWork\PleaseWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PleaseWork\PleaseWork\obj\Debug\PleaseWork.csprojResolveAssemblyReference.cache
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PleaseWork\PleaseWork\obj\Debug\PleaseWork.csproj.CoreCompileInputs.cache
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PleaseWork\PleaseWork\obj\Debug\PleaseWork.dll
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PleaseWork\PleaseWork\obj\Debug\PleaseWork.pdb

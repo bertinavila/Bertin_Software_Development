@@ -1,0 +1,17 @@
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PRG_310\Week01\Week1\Week1\bin\Week1.dll
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PRG_310\Week01\Week1\Week1\bin\Week1.pdb
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PRG_310\Week01\Week1\Week1\bin\mscorlib.dll
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PRG_310\Week01\Week1\Week1\bin\de\mscorlib.resources.dll
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PRG_310\Week01\Week1\Week1\bin\es\mscorlib.resources.dll
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PRG_310\Week01\Week1\Week1\bin\ja\mscorlib.resources.dll
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PRG_310\Week01\Week1\Week1\bin\nl\mscorlib.resources.dll
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PRG_310\Week01\Week1\Week1\bin\pt-BR\mscorlib.resources.dll
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PRG_310\Week01\Week1\Week1\bin\zh-Hans\mscorlib.resources.dll
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PRG_310\Week01\Week1\Week1\bin\normidna.nlp
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PRG_310\Week01\Week1\Week1\bin\normnfc.nlp
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PRG_310\Week01\Week1\Week1\bin\normnfd.nlp
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PRG_310\Week01\Week1\Week1\bin\normnfkc.nlp
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PRG_310\Week01\Week1\Week1\bin\normnfkd.nlp
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PRG_310\Week01\Week1\Week1\obj\Debug\Week1.csprojResolveAssemblyReference.cache
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PRG_310\Week01\Week1\Week1\obj\Debug\Week1.dll
+C:\Users\Bert\Documents\GitHub\Bertin_Software_Development\PRG_310\Week01\Week1\Week1\obj\Debug\Week1.pdb
